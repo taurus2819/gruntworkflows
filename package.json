@@ -1,7 +1,7 @@
 {
   "name": "gruntworkflows",
   "version": "1.0.0",
-  "description": "Grunt workflow project",  
+  "description": "Grunt workflow project",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/taurus2819/gruntworkflows.git"
@@ -11,5 +11,9 @@
   "bugs": {
     "url": "https://github.com/taurus2819/gruntworkflows/issues"
   },
-  "homepage": "https://github.com/taurus2819/gruntworkflows#readme"
+  "homepage": "https://github.com/taurus2819/gruntworkflows#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-concat": "^1.0.1"
+  }
 }
