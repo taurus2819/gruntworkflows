@@ -14,6 +14,7 @@
   "homepage": "https://github.com/taurus2819/gruntworkflows#readme",
   "devDependencies": {
     "grunt": "^1.0.1",
-    "grunt-contrib-concat": "^1.0.1"
+    "grunt-contrib-concat": "^1.0.1",
+    "grunt-sass": "^2.0.0"
   }
 }
